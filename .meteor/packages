@@ -24,3 +24,4 @@ fourseven:scss
 twbs:bootstrap
 accounts-password
 ian:accounts-ui-bootstrap-3
+iron:router
